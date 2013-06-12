@@ -1,0 +1,23 @@
+/**
+ * Responsive Component
+ */
+
+/**
+ * Mobile First
+ */
+body {
+    font: 100%/1.4em "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    margin: 0 auto;
+    padding: 0 0.625em;
+    -webkit-text-size-adjust: none;
+}
+
+/**
+ * Medium Screens
+ */
+@media all and (min-width:40em) {}
+
+/**
+ * Large Screens
+ */
+@media all and (min-width: 54em) {}

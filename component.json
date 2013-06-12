@@ -1,0 +1,17 @@
+{
+  "name": "responsive",
+  "repo": "pazguille/responsive",
+  "description": "Build a mobile first responsive front-end.",
+  "version": "0.0.1",
+  "author": "Guille Paz <guille87paz@gmail.com>",
+  "twitter": "@pazguille",
+  "keywords": [],
+  "dependencies": {
+    "necolas/normalize.css": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "responsive.css"
+  ]
+}
