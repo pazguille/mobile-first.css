@@ -1,6 +1,6 @@
 {
-  "name": "responsive",
-  "repo": "pazguille/responsive",
+  "name": "mobile-first",
+  "repo": "pazguille/mobile-first",
   "description": "Build a mobile first responsive front-end.",
   "version": "0.0.1",
   "author": "Guille Paz <guille87paz@gmail.com>",
@@ -12,6 +12,6 @@
   "development": {},
   "license": "MIT",
   "styles": [
-    "responsive.css"
+    "mobile-first.css"
   ]
 }
