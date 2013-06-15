@@ -1,8 +1,4 @@
 /**
- * Mobile-first Styles
- */
-
-/**
  * Mobile First
  */
 body {
@@ -11,6 +7,11 @@ body {
     padding: 0 0.625em;
     -webkit-text-size-adjust: none;
 }
+
+/**
+ * Small Screens
+ */
+
 
 /**
  * Medium Screens
